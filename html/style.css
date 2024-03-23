@@ -1,0 +1,40 @@
+h1{
+
+    color: red;
+
+}
+
+
+
+.titulo1{
+
+    color:blue;
+    align-content: center;
+
+}
+
+
+
+.divText{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    right: 90px;
+}
+
+
+.divImagen{
+    top: 500px;
+    height: 250px;
+    width: 100px;
+
+}
+
+
+.imagen{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    right: 90px;
+    
+}
